@@ -32,7 +32,7 @@
   <a href="https://godotengine.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drerizo&show_icons=true&locale=en&layout=compact&theme=radical" alt="drerizo" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drerizo&show_icons=true&locale=en&layout=compact&theme=radical&hide=C" alt="drerizo" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drerizo&show_icons=true&locale=en&theme=radical" alt="drerizo" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drerizo&theme=radical" alt="drerizo" /></p>

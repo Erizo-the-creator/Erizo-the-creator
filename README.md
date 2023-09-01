@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Erizo</h1>
 <h3 align="center">A Software Developer in the making from Poland 🇵🇱</h3>
 <p align="center"> 
-  GihHub Views:<br>
+  GitHub Views:<br>
   <img src="https://count.getloli.com/get/@erizo?theme=rule34">
 </p>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drerizo&title=Stars,Followers,Commits,PullRequest,Repositories,Issue&theme=radical" alt="drerizo" /></a> </p>

@@ -14,9 +14,10 @@
 
 </p>
 <h3 align="center">Socials:</h3>
-<p align="center"> <a href="https://twitter.com/erizo13_" target="blank"><img src="https://img.shields.io/twitter/follow/erizo13_?logo=twitter&style=for-the-badge" alt="erizo13_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/erizo13_" target="blank"><img src="https://img.shields.io/twitter/follow/erizo13_?logo=twitter&style=for-the-badge" alt="erizo13_" width="180"/></a> </p>
 <p align="center"> <a href="https://www.youtube.com/channel/UCM0F19VyURFhUi5vBkmUw1Q" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCM0F19VyURFhUi5vBkmUw1Q?style=for-the-badge&logo=youtube&labelColor=grey" alt="erizo_" height="30" /></a> </p>
-
+<p align="center"> <a href="https://discord.com/users/539100425463529472" target="blank"><img align="center" src="https://i.imgur.com/S0hfovl.png" alt="erizo_" height="30" width="180" /></a> </p>
+<p align="center"> Discord: erizo__ </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>

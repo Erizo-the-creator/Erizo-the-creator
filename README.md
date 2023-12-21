@@ -63,5 +63,6 @@
   21. Pixel pattern manipulation (see Triple A app by SungLab Inc for more details)
   22. Morphing between 2 images.
   23. Function Grapher.
+  24. Visualization of pi being irrational.
   
 </code>

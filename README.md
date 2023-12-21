@@ -36,4 +36,31 @@
   <img src="https://github-readme-stats.vercel.app//api?username=drerizo&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&&bg_color=000000&text_color=6e93b5" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drerizo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&text_color=6e93b5" /><br>
 </div>
-
+<h1>Ideas:</h1>
+<code>
+  
+  0. Hexagonal Chess.
+  1. Green-white gradient that radiates from your cursor when you press LMB that interacts with solid objects.
+  2. 2D Shapes popping into existence and transforming in size, shape, color (possibly a celular automate like gameplay).
+  3. Conways game of life but with hexagons instead of squares.
+  4. "Achtung Kurve" like multiplayer game made in sfml.
+  5. Another color based cellular automata (make it focused on colonies of pixels)
+  6. Convert Camera output to a rule of the cellular automata from point 5.
+  7. 3D cellular automata that uses .obj files to render the initial state of the world.
+  8. Image to conways game of life converter
+  9. Converging expansion of 3D spheres.
+  10. Dynamic Color mixing/Oil paint simulation
+  11. A Badass audio equalizer.
+  12. Motion Extraction program (see video by Posy for more info)
+  13. Cellular automata that takes sound input as enviorment.
+  14. Yet another turtle framework.
+  15. Gravity simulation.
+  16. Simple Touhou like game.
+  17. Explosion simulation
+  18. Realistic liquid simulation.
+  19. Fun little damage sandbox game where you abuse the screen.
+  20. Multiplayer r/Place made in SDL.
+  21. Pixel pattern manipulation (see Triple A app by SungLab Inc for more details)
+  22. Morphing between 2 images.
+  
+</code>

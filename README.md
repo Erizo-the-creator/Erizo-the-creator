@@ -50,7 +50,7 @@
   8. Image to conways game of life converter
   9. Converging expansion of 3D spheres.
   10. Dynamic Color mixing/Oil paint simulation
-  11. A Badass audio equalizer.
+  11. A Badass audio visualiser.
   12. Motion Extraction program (see video by Posy for more info)
   13. Cellular automata that takes sound input as enviorment.
   14. Yet another turtle framework.

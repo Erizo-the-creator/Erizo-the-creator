@@ -64,5 +64,6 @@
   22. Morphing between 2 images.
   23. Function Grapher.
   24. Visualization of pi being irrational.
+  25. Fracatal generator
   
 </code>

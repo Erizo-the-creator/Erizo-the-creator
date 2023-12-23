@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Erizo</h1>
 <h3 align="center">A Software Developer in the making from Poland 🇵🇱</h3>
 <p align="center">
-  <img src="https://count.getloli.com/get/@erizo?theme=rule34">
+  <img src="https://moe-counter.glitch.me/get/@erizo?theme=rule34">
 </p>
 <div align="center"">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=drerizo&theme=radical" alt="drerizo" /></a> 

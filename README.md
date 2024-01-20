@@ -66,5 +66,6 @@
   24. Visualization of pi being irrational.
   25. Fracatal generator
   26. Add 3D graphics module to fif
+  27. Minesweeper.
   
 </code>

@@ -4,7 +4,7 @@
   <img src="https://moe-counter.glitch.me/get/@erizo?theme=rule34">
 </p>
 <div align="center"">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=drerizo&theme=radical" alt="drerizo" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=drerizo&title=MultiLanguage,Experience,Commits,Repositories,Stars,Followers,Issues,PullRequest&theme=radical" alt="drerizo" /></a> 
 </div>
 
 <p align="center">

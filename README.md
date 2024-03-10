@@ -51,7 +51,7 @@
   9. Converging expansion of 3D spheres.
   10. Dynamic Color mixing/Oil paint simulation
   11. A Badass audio visualiser.
-  12. Motion Extraction program (see video by Posy for more info)
+  12. Motion Extraction program (<a href="https://www.youtube.com/watch?v=NSS6yAMZF78" target="_blank" rel="noreferrer">video by Posy</a> for more info)
   13. Cellular automata that takes sound input as enviorment.
   14. Yet another turtle framework.
   15. Gravity simulation.
@@ -60,12 +60,12 @@
   18. Realistic liquid simulation.
   19. Fun little damage sandbox game where you abuse the screen.
   20. Multiplayer r/Place made in SDL.
-  21. Pixel pattern manipulation (see Triple A app by SungLab Inc for more details)
+  21. Pixel pattern manipulation (see <a href="https://www.appbrain.com/app/triple-a/com.sunglab.tripleafree" target="_blank" rel="noreferrer">Triple A app by SungLab Inc</a> for more details)
   22. Morphing between 2 images.
   23. Function Grapher.
   24. Visualization of pi being irrational.
   25. Fracatal generator
-  26. Add 3D graphics module to fif
+  26. Add 3D graphics module to <a href="https://github.com/rxn7/fif" target="_blank" rel="noreferrer">fif</a>
   27. Minesweeper.
   28. Fork of Kitty with bitmap font support
   

@@ -68,5 +68,6 @@
   26. Add 3D graphics module to <a href="https://github.com/rxn7/fif" target="_blank" rel="noreferrer">fif</a>
   27. Minesweeper.
   28. Fork of Kitty with bitmap font support
+  29. Tetris clone
   
 </code>

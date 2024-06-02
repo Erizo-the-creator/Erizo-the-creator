@@ -70,5 +70,6 @@
   28. Fork of Kitty with bitmap font support
   29. Tetris clone
   30. Bouncing square/ball that plays music
+  31. Polyrhythm loop
   
 </code>

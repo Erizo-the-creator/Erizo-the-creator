@@ -34,7 +34,6 @@
 <div align="center"">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drerizo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&text_color=6e93b5" alt="drerizo" />
   <img src="https://github-readme-stats.vercel.app//api?username=drerizo&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&&bg_color=000000&text_color=6e93b5" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drerizo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&text_color=6e93b5" /><br>
 </div>
 <h1>Ideas:</h1>
 <code>

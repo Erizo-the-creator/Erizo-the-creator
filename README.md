@@ -38,41 +38,4 @@
   <img width="400" src="https://github-readme-stats.vercel.app//api?username=drerizo&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&&bg_color=000000&text_color=6e93b5" />
 </div>
 <h1>Ideas:</h1>
-<code>
-  
-  0. Hexagonal Chess.
-  1. Green-white gradient that radiates from your cursor when you press LMB that interacts with solid objects.
-  2. 2D Shapes popping into existence and transforming in size, shape, color (possibly a celular automate like gameplay).
-  3. Conways game of life but with hexagons instead of squares.
-  4. "Achtung Kurve" like multiplayer game made in sfml.
-  5. Another color based cellular automata (make it focused on colonies of pixels)
-  6. Convert Camera output to a rule of the cellular automata from point 5.
-  7. 3D cellular automata that uses .obj files to render the initial state of the world.
-  8. Image to conways game of life converter
-  9. Converging expansion of 3D spheres.
-  10. Dynamic Color mixing/Oil paint simulation
-  11. A Badass audio visualiser.
-  12. Motion Extraction program (<a href="https://www.youtube.com/watch?v=NSS6yAMZF78" target="_blank" rel="noreferrer">video by Posy</a> for more info)
-  13. Cellular automata that takes sound input as enviorment.
-  14. Yet another turtle framework.
-  15. Gravity simulation.
-  16. Simple Touhou like game.
-  17. Explosion simulation
-  18. Realistic liquid simulation.
-  19. Fun little damage sandbox game where you abuse the screen.
-  20. Multiplayer r/Place made in SDL.
-  21. Pixel pattern manipulation (see <a href="https://www.appbrain.com/app/triple-a/com.sunglab.tripleafree" target="_blank" rel="noreferrer">Triple A app by SungLab Inc</a> for more details)
-  22. Morphing between 2 images.
-  23. Function Grapher.
-  24. Visualization of pi being irrational.
-  25. Fracatal generator
-  26. Add 3D graphics module to <a href="https://github.com/rxn7/fif" target="_blank" rel="noreferrer">fif</a>
-  27. Minesweeper.
-  28. Fork of Kitty with bitmap font support
-  29. Tetris clone
-  30. Bouncing square/ball that plays music
-  31. Polyrhythm loop
-  32. encrypted p2p android Walkie Talkie app
-  33. 2D Tree growing simulator
-  
-</code>
+<a href="https://erizo.cc?page=ideas">https://erizo.cc?page=ideas</a>
